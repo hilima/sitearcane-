@@ -1,0 +1,211 @@
+.cabecalho{
+
+    display: flex;
+	width: 98%;
+	height: 35vh;
+	background-color: #191970;
+	justify-content: space-around;
+	border-radius: 10px;
+	margin-left: 8px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	}
+
+.imagem_um{
+	display: flex;
+	width: 12%;
+	height: 20vh;
+	margin: 8px;
+	background-color: #00BFFF;
+	border-radius: 10px;
+}
+
+.menu{
+	display: flex;
+	width: 10%;
+	height: 15vh;
+	background-color: #191970;
+	flex-direction: column;
+	border-radius: 10px;
+}
+
+
+.links{
+    display: flex;
+	width: 100%;
+	height: 10vh;
+	background-color: #191970;
+        font-style: italic;
+		font-weight: bold;
+		font-size: 15px;
+		font-family: monospace;
+		color: #8d87fa;
+		align-items: flex-start;
+}
+.tudo{
+	display: flex;
+	width: auto;
+	height: auto;
+	background-color: #09034c;
+	flex-direction: column;
+	justify-content: space-around,
+
+
+
+}
+.lt{
+	width: 20%;
+	height: 10vh;
+	background-color:#191970;
+
+}
+.arcanelogo{
+    display: flex;
+	width: 30%;
+	height: 15vh;
+	background-color: #191970;
+	border-radius: 10px;
+	margin-left: 14%;
+	margin-top: 5%;
+	
+}
+.elenco{
+	font-style: italic;
+	font-size: 15px;
+	font-family: monospace;
+	color: #8d87fa;
+	display: flex;
+	width:99%;
+	height: 50vh;
+	background-color: #191970;
+	justify-content: space-around;
+	border-radius: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+
+}
+.imagemlala{
+	border-radius: 10px;
+	width: 55%;
+	height: 28vh;
+	display: flex;
+}
+.elenco2{
+	font-style: italic;
+	font-size: 11px;
+	font-family: monospace;
+	color: #8d87fa;
+	display: flex;
+	width:99%;
+	height: 50vh;
+	background-color: #191970;
+	justify-content: space-around;
+	border-radius: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+}
+
+
+
+
+.nomes{
+	font-style: italic;
+	font-size: 18px;
+	font-family: monospace;
+	color: #8d87fa;
+	margin-left: 10px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+}
+.tudo2{
+	font-style: italic;
+	font-size: 15px;
+	font-family: monospace;
+	color: #8d87fa;
+	display: flex;
+	width:99%;
+	height: 45vh;
+	background-color: #191970;
+	justify-content: space-between;
+	border-radius: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+}
+.arcanecapa{
+	color: #8d87fa;
+	display: flex;
+	width:20%;
+	height: 40vh;
+	background-color: #191970;
+	justify-content: space-between;
+	border-radius: 10px;
+	margin-left: 5px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.sinopse{
+	font-style: italic;
+	font-size: 12px;
+	font-family: monospace;
+	color: #8d87fa;
+	display: flex;
+	width:60%;
+	height: 40vh;
+	background-color: #09034c;
+	justify-content: space-between;
+	border-radius: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	text-align: center;
+}
+.sinopse2{
+	font-style: italic;
+	font-size: 12px;
+	font-family: monospace;
+	color: #8d87fa;
+	display: flex;
+	width:60%;
+	height: 40vh;
+	background-color: #09034c;
+	justify-content: space-between;
+	border-radius: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	text-align: center;
+}
+.videotrailer{
+	font-style: italic;
+	font-size: 12px;
+	font-family: monospace;
+	color: #8d87fa;
+	display: flex;
+	width:99%;
+	height: 90vh;
+	background-color: #191970;
+	justify-content: space-between;
+	border-radius: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.video{
+	width:100%;
+	height: 50vh;
+	background-color: #191970;
+	justify-content: space-between;
+	border-radius: 10px;
+	margin-left: 10px;
+	margin-right: 50%px;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	text-align: center;
+}
